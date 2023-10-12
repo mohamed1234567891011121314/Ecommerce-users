@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227281044872",
+    "project_id": "ecommerce-d708d",
+    "storage_bucket": "ecommerce-d708d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227281044872:android:65be077981d969cdc8263d",
+        "android_client_info": {
+          "package_name": "com.dioransApp.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227281044872-c7kog19eof7tf5c57et978rqli4kk0fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dioransApp.ecommerce",
+            "certificate_hash": "3d8359efb68a89ca6e06e75bcbed7a3202662d79"
+          }
+        },
+        {
+          "client_id": "227281044872-jj1eis81r1rg21jf4gg7sdos6sb2d843.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUilJCqBDSmtquxWtreWDmL5H_Z9nGq5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227281044872-jj1eis81r1rg21jf4gg7sdos6sb2d843.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
